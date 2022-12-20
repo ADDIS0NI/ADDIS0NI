@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ADDIS0NI
+- 👋 Hi, I’m @ADITYASONI
 - 👀 I’m interested in ... designing and coding
 - 🌱 I’m currently learning ... FRONT_END web development
 - 💞️ I’m looking to collaborate with my team for a web project.
