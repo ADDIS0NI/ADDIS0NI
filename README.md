@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Soni, a Software Engineering Intern at Panasonic India and a passionate Computer Science and Design student at Madhav Institute of Technology and Science, Gwalior.
 - 👀  I specialize in Full-Stack Web Development, with expertise in Django, Golang, React, MongoDB, and APIs.
-- 🌱 I’m currently learning ... FRONT_END web development
-- 🚀Current Role: Developing a confidential application at Panasonic, leveraging Golang and MongoDB for secure, efficient backend solutions.
+- 🚀Current Role: Developing a confidential application at Panasonic, leveraging Golang/python and MongoDB for secure, efficient backend solutions.
 - 💞️ I’m looking to collaborate with my team for a web project.
 - 🌟 Skills:
           Frontend: HTML, CSS, Tailwind CSS, Bootstrap, React, JavaScript
